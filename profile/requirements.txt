@@ -26,7 +26,7 @@ gunicorn==21.2.0
 httpcore==0.17.3
 httptools==0.6.0
 httpx==0.24.1
-idna==3.4
+idna==3.7
 iniconfig==2.0.0
 ipykernel==6.25.0
 ipython==8.14.0
